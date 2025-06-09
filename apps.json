@@ -1,0 +1,50 @@
+[
+  {
+    "id": "app_1",
+    "name": "roblox",
+    "shortDescription": "Roblox is the ultimate virtual universe that lets you create, share experiences with friends, and be anything you can imagine. Join millions of people and discover an infinite variety of immersive experiences created by a global community! ",
+    "fullDescription": "Roblox is the ultimate virtual universe that lets you create, share experiences with friends, and be anything you can imagine. Join millions of people and discover an infinite variety of immersive experiences created by a global community!
+
+Already have an account? Log in with your existing Roblox account and explore the infinite metaverse of Roblox.
+
+MILLIONS OF EXPERIENCES
+
+In the mood for an epic adventure? Want to compete against rivals worldwide? Or do you just want to hang out and chat with your friends online? A growing library of experiences created by the community means there’s always something new and exciting for you every day.
+
+EXPLORE TOGETHER ANYTIME, ANYWHERE
+
+Take the fun on the go. Roblox features full cross-platform support, meaning you can join your friends and millions of other people on their computers, mobile devices, Xbox One, or VR headsets.
+
+BE ANYTHING YOU CAN IMAGINE
+
+Be creative and show off your unique style! Customize your avatar with tons of hats, shirts, faces, gear, and more. With an ever-expanding catalog of items, there’s no limit to the looks you can create.
+
+CHAT WITH FRIENDS
+
+Party is a seamless way for up to six friends to group up and jump into an experience together. Join your friends and stay together as you move across experiences. 13+ users can also use Party chat to text. It's never been easier to coordinate and communicate all on Roblox.
+",
+    "category": "Araçlar",
+    "rating": 4.7,
+    "iconFileName": "roblox_icon.png",
+    "apkFileName": "harika_uygulama.apk",
+    "screenshots": [
+      "roblox_ss1.png",
+      "roblox_ss2.png"
+    ]
+  },
+  {
+    "id": "game_x",
+    "name": "Süper Oyun",
+    "shortDescription": "Sürükleyici bir macera oyunu.",
+    "fullDescription": "Süper Oyun, seni saatlerce ekran başına kilitleyecek bağımlılık yapıcı bir oyundur. Grafiklere ve hikayeye bayılacaksın!",
+    "category": "Oyun",
+    "rating": 4.5,
+    "iconFileName": "super_oyun_icon.png",
+    "apkFileName": "super_oyun.apk",
+    "screenshots": [
+      "super_oyun_ss1.png",
+      "super_oyun_ss2.png"
+    ]
+  }
+  // Daha fazla uygulama için buraya eklemeler yapabilirsin
+]
