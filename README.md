@@ -1,0 +1,2 @@
+# ggappstore-data
+scıklsms
